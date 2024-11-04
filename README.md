@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**GemmaVaggelli/GemmaVaggelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: **About me:**
 
-Here are some ideas to get you started:
+- 🔐 MSc Cybersecurity @ University of Pisa
+- 💻 BSc Computer Science Engineering @ University of Florence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 **How to reach me?** 
+<div id="social_badges">
+  <a href="www.linkedin.com/in/gemma-vaggelli-1291a6259">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+### 🌱 ** I’m currently learning** 
+
+- 🕵️ Open Source Intellingence(OSINT)
